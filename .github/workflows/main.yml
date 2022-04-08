@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - test
 jobs:
   cd:
     runs-on: ubuntu-20.04
