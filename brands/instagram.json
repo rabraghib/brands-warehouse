@@ -1,0 +1,11 @@
+{
+  "name": "Instagram",
+  "website": "https://instagram.com",
+  "icons": {
+    "fontawesome": "fa-instagram",
+    "simpleicons": "instagram",
+    "ionicons": "logo-instagram",
+    "bootstrap": "bi-instagram"
+  },
+  "labels": ["social"]
+}

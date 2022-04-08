@@ -1,0 +1,10 @@
+{
+  "name": "Figma",
+  "website": "https://www.figma.com",
+  "icons": {
+    "fontawesome": "fa-figma",
+    "simpleicons": "figma",
+    "ionicons": "logo-figma"
+  },
+  "labels": ["stack"]
+}

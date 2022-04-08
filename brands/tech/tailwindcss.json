@@ -1,0 +1,8 @@
+{
+  "name": "Tailwind CSS",
+  "website": "https://tailwindcss.com",
+  "icons": {
+    "simpleicons": "tailwindcss"
+  },
+  "labels": ["stack"]
+}

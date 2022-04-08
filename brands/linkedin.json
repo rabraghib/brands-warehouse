@@ -1,0 +1,11 @@
+{
+  "name": "LinkedIn",
+  "website": "https://linkedin.com",
+  "icons": {
+    "fontawesome": "fa-linkedin",
+    "simpleicons": "linkedin",
+    "ionicons": "logo-linkedin",
+    "bootstrap": "bi-linkedin"
+  },
+  "labels": ["social"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@ngaox/brands-warehouse",
+  "version": "0.0.0",
+  "description": ":octocat: Information and public meta data about techy brands right in your JS!",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngaox/brands-warehouse.git"
+  },
+  "author": "Rabyâ Raghib <rabraghib@gmail.com> (https://rabraghib.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngaox/brands-warehouse/issues"
+  },
+  "homepage": "https://github.com/ngaox/brands-warehouse#readme"
+}

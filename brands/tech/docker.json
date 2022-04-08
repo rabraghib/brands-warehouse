@@ -1,0 +1,10 @@
+{
+  "name": "Docker",
+  "website": "https://www.docker.com",
+  "icons": {
+    "simpleicons": "docker",
+    "ionicons": "logo-docker",
+    "bootstrap": "bi-docker"
+  },
+  "labels": ["stack"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Angular",
+  "website": "https://angular.io",
+  "icons": {
+    "fontawesome": "fa-angular",
+    "simpleicons": "angular",
+    "ionicons": "logo-angular"
+  },
+  "labels": ["stack"]
+}

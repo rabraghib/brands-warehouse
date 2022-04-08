@@ -1,0 +1,9 @@
+{
+  "name": "PHP",
+  "website": "https://www.php.net",
+  "icons": {
+    "fontawesome": "fa-php",
+    "simpleicons": "php"
+  },
+  "labels": ["stack"]
+}

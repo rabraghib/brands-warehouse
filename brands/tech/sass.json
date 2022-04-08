@@ -1,0 +1,10 @@
+{
+  "name": "Sass (.scss)",
+  "website": "https://sass-lang.com",
+  "icons": {
+    "fontawesome": "fa-sass",
+    "simpleicons": "sass",
+    "ionicons": "logo-sass"
+  },
+  "labels": ["stack"]
+}

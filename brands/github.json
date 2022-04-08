@@ -1,0 +1,11 @@
+{
+  "name": "GitHub",
+  "website": "https://github.com",
+  "icons": {
+    "fontawesome": "fa-github",
+    "simpleicons": "github",
+    "ionicons": "logo-github",
+    "bootstrap": "bi-github"
+  },
+  "labels": ["social"]
+}

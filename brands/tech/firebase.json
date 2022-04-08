@@ -1,0 +1,11 @@
+{
+  "name": "Firebase",
+  "website": "https://firebase.google.com",
+  "icons": {
+    "fontawesome": "fa-firebase",
+    "simpleicons": "firebase",
+    "ionicons": "logo-firebase",
+    "bootstrap": "bi-firebase"
+  },
+  "labels": ["stack"]
+}

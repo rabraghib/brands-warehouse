@@ -1,0 +1,11 @@
+{
+  "name": "Twitter",
+  "website": "https://twitter.com",
+  "icons": {
+    "fontawesome": "fa-twitter",
+    "simpleicons": "twitter",
+    "ionicons": "logo-twitter",
+    "bootstrap": "bi-twitter"
+  },
+  "labels": ["social"]
+}

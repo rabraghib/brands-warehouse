@@ -1,1 +1,1 @@
-# brands-warehouse
+# Brands Warehouse

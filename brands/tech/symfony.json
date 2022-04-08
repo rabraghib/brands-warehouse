@@ -1,0 +1,9 @@
+{
+  "name": "Symfony",
+  "website": "https://symfony.com",
+  "icons": {
+    "fontawesome": "fa-symfony",
+    "simpleicons": "symfony"
+  },
+  "labels": ["stack"]
+}

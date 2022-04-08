@@ -1,0 +1,11 @@
+{
+  "name": "Facebook",
+  "website": "https://www.facebook.com",
+  "icons": {
+    "fontawesome": "fa-facebook",
+    "simpleicons": "facebook",
+    "ionicons": "logo-facebook",
+    "bootstrap": "bi-facebook"
+  },
+  "labels": []
+}

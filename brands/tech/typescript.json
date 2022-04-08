@@ -1,0 +1,8 @@
+{
+  "name": "TypeScript",
+  "website": "https://www.typescriptlang.org",
+  "icons": {
+    "simpleicons": "typescript"
+  },
+  "labels": ["stack"]
+}

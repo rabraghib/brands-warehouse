@@ -1,0 +1,8 @@
+{
+  "name": "NX",
+  "website": "https://nx.dev",
+  "icons": {
+    "simpleicons": "nx"
+  },
+  "labels": ["stack"]
+}
