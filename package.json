@@ -1,6 +1,6 @@
 {
   "name": "@ngaox/brands-warehouse",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": ":octocat: Information and public meta data about techy brands right in your JS!",
   "main": "src/index.js",
   "repository": {
