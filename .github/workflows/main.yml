@@ -5,7 +5,7 @@ on:
     branches:
       - main
 jobs:
-  cd:
+  release-and-publish:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
@@ -18,13 +18,13 @@ jobs:
       - uses: chaospad/releaser@v1
         id: releaser
       - uses: softprops/action-gh-release@v1
-        if: steps.releaser.outputs.released
+        if: steps.releaser.outputs.released == 'true'
         with:
           name: "${{ steps.releaser.outputs.tag }} 🎉"
           tag_name: ${{ steps.releaser.outputs.tag }}
           body: ${{ steps.releaser.outputs.release_notes }}
       - name: 🎉 Publish packages to npmJs
-        if: steps.releaser.outputs.released
+        if: steps.releaser.outputs.released == 'true'
         run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
