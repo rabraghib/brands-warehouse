@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/ngaox/brands-warehouse/compare/v1.1.0...v2.0.0) (2022-04-08)
+
+
+### Features
+
+* fsdfds  ([3afc5d8](https://github.com/ngaox/brands-warehouse/commit/3afc5d8fda33887a08427c5368fddff1fbd76ee7))
+
+
+### BREAKING CHANGES
+
+* none
+
+
+
 # [1.1.0](https://github.com/ngaox/brands-warehouse/compare/v0.1.0...v1.1.0) (2022-04-08)
 
 
