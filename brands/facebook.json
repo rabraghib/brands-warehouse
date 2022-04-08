@@ -7,5 +7,5 @@
     "ionicons": "logo-facebook",
     "bootstrap": "bi-facebook"
   },
-  "labels": []
+  "labels": ["social"]
 }

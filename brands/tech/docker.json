@@ -6,5 +6,5 @@
     "ionicons": "logo-docker",
     "bootstrap": "bi-docker"
   },
-  "labels": ["stack"]
+  "labels": []
 }
