@@ -3,6 +3,7 @@
   "version": "1.1.1",
   "description": ":octocat: Information and public meta data about techy brands right in your JS!",
   "main": "src/index.js",
+  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ngaox/brands-warehouse.git"
