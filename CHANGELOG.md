@@ -1,3 +1,12 @@
+## [1.1.2](https://github.com/ngaox/brands-warehouse/compare/v1.1.1...v1.1.2) (2022-04-09)
+
+
+### Bug Fixes
+
+* ensure script is in commonjs ([fab5069](https://github.com/ngaox/brands-warehouse/commit/fab5069828d85b7eb0c8dab989140b3280f953af))
+
+
+
 ## [1.1.1](https://github.com/ngaox/brands-warehouse/compare/v1.1.0...v1.1.1) (2022-04-08)
 
 
