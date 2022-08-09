@@ -15,7 +15,7 @@ jobs:
           registry-url: "https://registry.npmjs.org"
           scope: "@ngaox"
           cache: "yarn"
-      - uses: chaospad/releaser@v1
+      - uses: rabraghib/releaser-action@v1
         id: releaser
       - uses: softprops/action-gh-release@v1
         if: steps.releaser.outputs.released == 'true'
